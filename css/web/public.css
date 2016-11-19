@@ -1,0 +1,4 @@
+.nav{height:35px;; line-height:35px; border-bottom:2px inset #FFFFFF; width:1001px; margin:0 auto}
+.nav li{ float:left;width:77px; text-align:center;}
+.nav li a{ display:block; font-size:14px; font-weight:bold; text-decoration:none;}
+.nav li a:hover{background:url(n_bg1.jpg);display:block; }
